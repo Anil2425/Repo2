@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Manual Mode</name>
+   <tag>Tag2</tag>
+   <comment></comment>
+   <testCaseGuid>c81e5f13-ec63-4110-a0a3-f87f23408890</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Record Mode</name>
+   <tag>Tag1</tag>
+   <comment></comment>
+   <testCaseGuid>fde324e5-0b01-47c1-a190-f4d85281c83a</testCaseGuid>
+</TestCaseEntity>

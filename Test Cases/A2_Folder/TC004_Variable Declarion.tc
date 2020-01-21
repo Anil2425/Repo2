@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_Variable Declarion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05683f5b-d760-4847-9b28-f297de1d4b96</testCaseGuid>
+   <variable>
+      <defaultValue>1000</defaultValue>
+      <description></description>
+      <id>42cd897f-ebe4-4c9c-a2bf-1ee2079abf80</id>
+      <masked>false</masked>
+      <name>Var1</name>
+   </variable>
+</TestCaseEntity>

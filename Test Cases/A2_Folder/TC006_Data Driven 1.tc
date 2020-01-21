@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_Data Driven 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a5fa2c1-3593-4d6f-9a9f-56f149dbf6dd</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('A2_DF/A2_ExcelFile').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>16d6dede-e5a5-4a43-8ab7-06a3997fc1cb</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('A2_DF/A2_ExcelFile').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>6153a394-49ed-4ecf-a367-665b66c3052c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

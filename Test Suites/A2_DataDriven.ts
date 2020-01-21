@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>A2_DataDriven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>81b30003-bfb5-447b-bd26-d425d917cdd9</testSuiteGuid>
+   <testCaseLink>
+      <guid>4895909b-7406-4060-9eef-5199284e8fe0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/A2_Folder/TC006_Data Driven 1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>29ea9308-2159-438c-8371-5951a0da0e78</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/A2_DF/A2_ExcelFile</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>29ea9308-2159-438c-8371-5951a0da0e78</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>16d6dede-e5a5-4a43-8ab7-06a3997fc1cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>29ea9308-2159-438c-8371-5951a0da0e78</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>6153a394-49ed-4ecf-a367-665b66c3052c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3f830dde-c2db-4410-ad6e-f7c99e2a2a3c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/A2_Folder/TC006_Data Driven 1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c2715fb6-c574-4ad4-b2cc-a8544c338ddc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/A2_DF/A2_ExcelFile</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>c2715fb6-c574-4ad4-b2cc-a8544c338ddc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>16d6dede-e5a5-4a43-8ab7-06a3997fc1cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c2715fb6-c574-4ad4-b2cc-a8544c338ddc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>6153a394-49ed-4ecf-a367-665b66c3052c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b3007c5a-7884-4174-bc93-b98c002d16fd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/A2_Folder/TC006_Data Driven 1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ee853a83-b118-4a93-a42f-a98cfceaa774</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/A2_DF/A2_ExcelFile</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>16d6dede-e5a5-4a43-8ab7-06a3997fc1cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6153a394-49ed-4ecf-a367-665b66c3052c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
